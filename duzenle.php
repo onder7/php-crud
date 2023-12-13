@@ -3,7 +3,7 @@ require_once('inc/db.php');
 
 
 $data = [
-    "baslik" => "Ayhan Özdemir",
+    "baslik" => "oNDER mONDER",
 ];
 
 $where = "id = 2";
